@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AbstractDal/1.0.0": {
+        "dependencies": {
+          "UsersAndAwardsEntities": "1.0.0"
+        },
+        "runtime": {
+          "AbstractDal.dll": {}
+        }
+      },
+      "UsersAndAwardsEntities/1.0.0": {
+        "runtime": {
+          "UsersAndAwardsEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractDal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsersAndAwardsEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

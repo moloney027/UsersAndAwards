@@ -1,0 +1,9 @@
+C:\Projects\RiderProjects\UsersAndAwards\Entities\UsersAndAwardsEntities\obj\Debug\netcoreapp3.1\UsersAndAwardsEntities.csprojAssemblyReference.cache
+C:\Projects\RiderProjects\UsersAndAwards\Entities\UsersAndAwardsEntities\obj\Debug\netcoreapp3.1\UsersAndAwardsEntities.csproj.CoreCompileInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\Entities\UsersAndAwardsEntities\obj\Debug\netcoreapp3.1\UsersAndAwardsEntities.AssemblyInfoInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\Entities\UsersAndAwardsEntities\obj\Debug\netcoreapp3.1\UsersAndAwardsEntities.AssemblyInfo.cs
+C:\Projects\RiderProjects\UsersAndAwards\Entities\UsersAndAwardsEntities\bin\Debug\netcoreapp3.1\UsersAndAwardsEntities.deps.json
+C:\Projects\RiderProjects\UsersAndAwards\Entities\UsersAndAwardsEntities\bin\Debug\netcoreapp3.1\UsersAndAwardsEntities.dll
+C:\Projects\RiderProjects\UsersAndAwards\Entities\UsersAndAwardsEntities\bin\Debug\netcoreapp3.1\UsersAndAwardsEntities.pdb
+C:\Projects\RiderProjects\UsersAndAwards\Entities\UsersAndAwardsEntities\obj\Debug\netcoreapp3.1\UsersAndAwardsEntities.dll
+C:\Projects\RiderProjects\UsersAndAwards\Entities\UsersAndAwardsEntities\obj\Debug\netcoreapp3.1\UsersAndAwardsEntities.pdb

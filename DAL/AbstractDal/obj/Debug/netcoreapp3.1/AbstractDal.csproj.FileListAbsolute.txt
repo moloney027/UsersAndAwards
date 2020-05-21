@@ -1,0 +1,12 @@
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\bin\Debug\netcoreapp3.1\AbstractDal.deps.json
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\bin\Debug\netcoreapp3.1\AbstractDal.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\bin\Debug\netcoreapp3.1\AbstractDal.pdb
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\bin\Debug\netcoreapp3.1\UsersAndAwardsEntities.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\bin\Debug\netcoreapp3.1\UsersAndAwardsEntities.pdb
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\obj\Debug\netcoreapp3.1\AbstractDal.csprojAssemblyReference.cache
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\obj\Debug\netcoreapp3.1\AbstractDal.csproj.CoreCompileInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\obj\Debug\netcoreapp3.1\AbstractDal.AssemblyInfoInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\obj\Debug\netcoreapp3.1\AbstractDal.AssemblyInfo.cs
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\obj\Debug\netcoreapp3.1\AbstractDal.csproj.CopyComplete
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\obj\Debug\netcoreapp3.1\AbstractDal.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\AbstractDal\obj\Debug\netcoreapp3.1\AbstractDal.pdb

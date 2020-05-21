@@ -1,0 +1,12 @@
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\bin\Debug\netcoreapp3.1\Abstract.deps.json
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\bin\Debug\netcoreapp3.1\Abstract.dll
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\bin\Debug\netcoreapp3.1\Abstract.pdb
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\bin\Debug\netcoreapp3.1\UsersAndAwardsEntities.dll
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\bin\Debug\netcoreapp3.1\UsersAndAwardsEntities.pdb
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\obj\Debug\netcoreapp3.1\Abstract.csprojAssemblyReference.cache
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.CoreCompileInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfoInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfo.cs
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.CopyComplete
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\obj\Debug\netcoreapp3.1\Abstract.dll
+C:\Projects\RiderProjects\UsersAndAwards\BLL\Abstract\obj\Debug\netcoreapp3.1\Abstract.pdb

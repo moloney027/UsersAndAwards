@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AbstractBll/1.0.0": {
+        "dependencies": {
+          "UsersAndAwardsEntities": "1.0.0"
+        },
+        "runtime": {
+          "AbstractBll.dll": {}
+        }
+      },
+      "UsersAndAwardsEntities/1.0.0": {
+        "runtime": {
+          "UsersAndAwardsEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractBll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsersAndAwardsEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\bin\Debug\netcoreapp3.1\UsersAndAwardsDAL.deps.json
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\bin\Debug\netcoreapp3.1\UsersAndAwardsDAL.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\bin\Debug\netcoreapp3.1\UsersAndAwardsDAL.pdb
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\bin\Debug\netcoreapp3.1\UsersAndAwardsEntities.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\bin\Debug\netcoreapp3.1\UsersAndAwardsEntities.pdb
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\obj\Debug\netcoreapp3.1\UsersAndAwardsDAL.csprojAssemblyReference.cache
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\obj\Debug\netcoreapp3.1\UsersAndAwardsDAL.csproj.CoreCompileInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\obj\Debug\netcoreapp3.1\UsersAndAwardsDAL.AssemblyInfoInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\obj\Debug\netcoreapp3.1\UsersAndAwardsDAL.AssemblyInfo.cs
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\obj\Debug\netcoreapp3.1\UsersAndAwardsDAL.csproj.CopyComplete
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\obj\Debug\netcoreapp3.1\UsersAndAwardsDAL.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\obj\Debug\netcoreapp3.1\UsersAndAwardsDAL.pdb
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\bin\Debug\netcoreapp3.1\AbstractDal.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\UsersAndAwardsDAL\bin\Debug\netcoreapp3.1\AbstractDal.pdb

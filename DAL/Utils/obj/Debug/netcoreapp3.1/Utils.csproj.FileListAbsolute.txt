@@ -1,0 +1,9 @@
+C:\Projects\RiderProjects\UsersAndAwards\DAL\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Projects\RiderProjects\UsersAndAwards\DAL\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Projects\RiderProjects\UsersAndAwards\DAL\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
+C:\Projects\RiderProjects\UsersAndAwards\DAL\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\DAL\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Projects\RiderProjects\UsersAndAwards\DAL\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Projects\RiderProjects\UsersAndAwards\DAL\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Projects\RiderProjects\UsersAndAwards\DAL\Utils\obj\Debug\netcoreapp3.1\Utils.pdb

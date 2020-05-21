@@ -1,0 +1,416 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\RiderProjects\\UsersAndAwards\\PL\\UsersAndAwardsConsoleUI\\UsersAndAwardsConsoleUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\AbstractBll\\AbstractBll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\AbstractBll\\AbstractBll.csproj",
+        "projectName": "AbstractBll",
+        "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\AbstractBll\\AbstractBll.csproj",
+        "packagesPath": "C:\\Users\\Nataliya\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\AbstractBll\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nataliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\UsersAndAwardsEntities.csproj": {
+                "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\UsersAndAwardsEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\UsersAndAwardsLogic\\UsersAndAwardsLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\UsersAndAwardsLogic\\UsersAndAwardsLogic.csproj",
+        "projectName": "UsersAndAwardsLogic",
+        "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\UsersAndAwardsLogic\\UsersAndAwardsLogic.csproj",
+        "packagesPath": "C:\\Users\\Nataliya\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\UsersAndAwardsLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nataliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\AbstractBll\\AbstractBll.csproj": {
+                "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\AbstractBll\\AbstractBll.csproj"
+              },
+              "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\UsersAndAwardsDAL\\UsersAndAwardsDAL.csproj": {
+                "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\UsersAndAwardsDAL\\UsersAndAwardsDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\AbstractDal\\AbstractDal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\AbstractDal\\AbstractDal.csproj",
+        "projectName": "AbstractDal",
+        "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\AbstractDal\\AbstractDal.csproj",
+        "packagesPath": "C:\\Users\\Nataliya\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\AbstractDal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nataliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\UsersAndAwardsEntities.csproj": {
+                "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\UsersAndAwardsEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\UsersAndAwardsDAL\\UsersAndAwardsDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\UsersAndAwardsDAL\\UsersAndAwardsDAL.csproj",
+        "projectName": "UsersAndAwardsDAL",
+        "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\UsersAndAwardsDAL\\UsersAndAwardsDAL.csproj",
+        "packagesPath": "C:\\Users\\Nataliya\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\UsersAndAwardsDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nataliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\AbstractDAL\\AbstractDAL.csproj": {
+                "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\AbstractDAL\\AbstractDAL.csproj"
+              },
+              "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\AbstractDal\\AbstractDal.csproj": {
+                "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\AbstractDal\\AbstractDal.csproj"
+              },
+              "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\Utils\\Utils.csproj"
+              },
+              "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\UsersAndAwardsEntities.csproj": {
+                "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\UsersAndAwardsEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\Utils\\Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\Utils\\Utils.csproj",
+        "projectName": "Utils",
+        "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\Utils\\Utils.csproj",
+        "packagesPath": "C:\\Users\\Nataliya\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\DAL\\Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nataliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\UsersAndAwardsEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\UsersAndAwardsEntities.csproj",
+        "projectName": "UsersAndAwardsEntities",
+        "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\UsersAndAwardsEntities.csproj",
+        "packagesPath": "C:\\Users\\Nataliya\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\Entities\\UsersAndAwardsEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nataliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\RiderProjects\\UsersAndAwards\\PL\\UsersAndAwardsConsoleUI\\UsersAndAwardsConsoleUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\RiderProjects\\UsersAndAwards\\PL\\UsersAndAwardsConsoleUI\\UsersAndAwardsConsoleUI.csproj",
+        "projectName": "UsersAndAwardsConsoleUI",
+        "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\PL\\UsersAndAwardsConsoleUI\\UsersAndAwardsConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\Nataliya\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\PL\\UsersAndAwardsConsoleUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nataliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\UsersAndAwardsLogic\\UsersAndAwardsLogic.csproj": {
+                "projectPath": "C:\\Projects\\RiderProjects\\UsersAndAwards\\BLL\\UsersAndAwardsLogic\\UsersAndAwardsLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

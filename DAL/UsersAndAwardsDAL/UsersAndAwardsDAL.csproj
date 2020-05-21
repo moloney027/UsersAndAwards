@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Entities\UsersAndAwardsEntities\UsersAndAwardsEntities.csproj" />
+      <ProjectReference Include="..\AbstractDAL\AbstractDAL.csproj" />
+      <ProjectReference Include="..\AbstractDal\AbstractDal.csproj" />
+      <ProjectReference Include="..\Utils\Utils.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    </ItemGroup>
+
+</Project>
